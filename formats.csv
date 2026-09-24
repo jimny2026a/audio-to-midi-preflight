@@ -1,0 +1,10 @@
+extension,site_declared_use,codec_caveat,evidence_type,source_url,checked_on
+mp3,audio input,Protected damaged or unusual variants may fail,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+wav,audio input,Container does not identify PCM or codec variant,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+ogg,audio input,Container and codec support may differ,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+m4a,audio input,Protected damaged or unusual variants may fail,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+aac,audio input,Protected damaged or unusual variants may fail,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+flac,audio input,Protected damaged or unusual variants may fail,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+wma,audio input,Protected damaged or unusual variants may fail,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+mp4,video audio track,Only the audio track is used,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
+mov,video audio track,Only the audio track is used,site statement not compatibility test,https://mp3tomidiflow.com/,2026-09-24
